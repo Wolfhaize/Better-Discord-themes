@@ -15,3 +15,7 @@ A nightmare theme for BetterDiscord.
 ## LUSHLIFE
 Natural green theme for BetterDiscord.
 ![LushLife](https://github.com/Wolfhaize/Better-Discord-themes/blob/main/images/llss1.PNG)
+
+## COFFEECRAVE
+Light coffee theme for BetterDiscord.
+![CoffeeCrave](https://github.com/Wolfhaize/Better-Discord-themes/blob/main/images/ccss1.PNG)
