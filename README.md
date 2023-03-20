@@ -19,3 +19,7 @@ Natural green theme for BetterDiscord.
 ## COFFEECRAVE
 Light coffee theme for BetterDiscord.
 ![CoffeeCrave](https://github.com/Wolfhaize/Better-Discord-themes/blob/main/images/ccss1.PNG)
+
+## COFFEECRAZE
+Dark coffee theme for BetterDiscord
+![CoffeeCrave](https://github.com/Wolfhaize/Better-Discord-themes/blob/main/images/ccss1.PNG)
