@@ -1,7 +1,8 @@
 # Better-Discord-themes
 Collection of themes for better discord
 
-
+## Installation
+Download the theme file and move it into your BetterDiscord themes folder.
 
 
 
