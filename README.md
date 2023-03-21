@@ -24,3 +24,7 @@ Light coffee theme for BetterDiscord.
 ## COFFEECRAZE
 Dark coffee theme for BetterDiscord
 ![CoffeeCraze](https://github.com/Wolfhaize/Better-Discord-themes/blob/main/images/ccdss1.PNG)
+
+
+
+#### [Buy Me A Coffee](https://www.ko-fi.com/Wolfhaize)
