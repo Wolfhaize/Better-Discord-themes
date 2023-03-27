@@ -10,7 +10,9 @@ Download the theme file and move it into your BetterDiscord themes folder.
 
 
 
-## COFFEECRAVE
-Light coffee theme for BetterDiscord.
-![CoffeeCrave](https://github.com/Wolfhaize/Better-Discord-themes/blob/main/images/ccss1.PNG)
+## Koffie
+Relaxing Coffee theme.
+
+Drafted from unutuned's [ClearVision](https://betterdiscord.app/developer/untuned)
+![Koffie](https://cdn.discordapp.com/attachments/892581894191992893/1089841391359758406/koffie.PNG)
 
