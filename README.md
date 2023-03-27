@@ -16,3 +16,6 @@ Relaxing Coffee theme.
 Drafted from unutuned's [ClearVision](https://betterdiscord.app/developer/untuned)
 ![Koffie](https://cdn.discordapp.com/attachments/892581894191992893/1089841391359758406/koffie.PNG)
 
+
+![Koffie](https://cdn.discordapp.com/attachments/892581894191992893/1089842716935979060/koff2.PNG)
+
