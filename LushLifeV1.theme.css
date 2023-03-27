@@ -3,21 +3,22 @@
  * @author Wolfhaize
  * @version 1.0
  * @description Natural green theme for BetterDiscord.
- * @source https://github.com/Wolfhaize/Better-Discord-themes/blob/main/LushLifeV1theme.css
+ * @source https://github.com/Wolfhaize/Better-Discord-themes/blob/main/LushLifeV1.theme.css
  * @website https://github.com/Wolfhaize/Better-Discord-themes
  * @invite pwgH5bKhv4
  */
 
-@import url('https://github.com/Wolfhaize/Better-Discord-themes/blob/main/notatheme/main.css');
+ @import url('https://github.com/Wolfhaize/Better-Discord-themes/blob/main/notatheme/main.css');
 
-/* Variables */
-:root {
-    --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/7SbtKvw.png');
-    --home-image: url('https://i.imgur.com/233d55Y.gif');
-    --background-solid: #161921;
-    --background-solid-dark: #101218;
-    --background-solid-darker: #0c0e12;
-    --accent: 37, 172, 232;
-    --accent-alt: 29, 101, 134;
-}
+ /* Variables */
+ :root {
+     --avatar-size: 32px;
+     --background-image: url('https://cdn.discordapp.com/attachments/930452181772009513/1087401631383044276/ll.jpg');
+     --home-image: url('https://image.pngaaa.com/133/4138133-middle.png');
+     --background-solid: #46A094;
+     --background-solid-dark: #6BBD99;
+     --background-solid-darker: #148954;
+     --accent: 37, 172, 232;
+     --accent-alt: 29, 101, 134;
+ }
+ 
