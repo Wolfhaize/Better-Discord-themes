@@ -1,0 +1,23 @@
+/**
+ * @name LushLife
+ * @author Wolfhaize
+ * @version 1.0
+ * @description Natural green theme for BetterDiscord.
+ * @source https://github.com/Wolfhaize/Better-Discord-themes/blob/main/LushLifeV1theme.css
+ * @website https://github.com/Wolfhaize/Better-Discord-themes
+ * @invite pwgH5bKhv4
+ */
+
+@import url('https://github.com/Wolfhaize/Better-Discord-themes/blob/main/notatheme/main.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --home-image: url('https://i.imgur.com/233d55Y.gif');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
