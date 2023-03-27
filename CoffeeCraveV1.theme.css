@@ -1,0 +1,23 @@
+/**
+ * @name CoffeeCrave
+ * @author Wolfhaize
+ * @version 1.0
+ * @description Light coffee theme for BetterDiscord.
+ * @source https://github.com/Wolfhaize/Better-Discord-themes/blob/main/CoffeeCraveV1.theme.css
+ * @website https://github.com/Wolfhaize/Better-Discord-themes
+ * @invite https://discord.gg/pwgH5bKhv4
+ */
+
+@import url('https://github.com/Wolfhaize/Wolfhaize.github.io/blob/main/assets/css/main.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --home-image: url('https://images.all-free-download.com/images/graphiclarge/coffee_sign_311451.jpg');
+    --background-solid: rgba(210, 149, 115, 1);
+    --background-solid-dark: rgba(190, 114, 097, 1);
+    --background-solid-darker: rgba(159, 087, 084, 1);
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
